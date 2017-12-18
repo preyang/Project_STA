@@ -12,7 +12,7 @@ public class account
 	private int x3;//pin
 	private int x4;//state -1,0,1,2,3,4(start,idle,check pin,...)
 	private int x5;//id
-	private int x6;//extra charge if balance go over 500 
+	private int x6;//extra charge if balance go over 500
 	private int x7;//balance limit	
 	private int x8;//
 	private int x9;//attempts of pin
